@@ -1,7 +1,6 @@
 # hello-world
-Just another repository
 
+Hi Humands!
 
-Hi, its me, testing github and one more thing.
-
-more thing
+Hubot here, I like Node.js and Coffeescript (that's what I'm made of!).
+I've had tacos on the moon and find them superior to Earth tacos.
